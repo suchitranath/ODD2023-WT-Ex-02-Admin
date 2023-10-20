@@ -19,3 +19,9 @@ Setting e-mail for all users
 ## Step 4:
 
 Setting the first name and last name for all users
+
+# OUTPUT:
+![](images/output.png)
+# RESULT:
+
+The program is executed succesfully
