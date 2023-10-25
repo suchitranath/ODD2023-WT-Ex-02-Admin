@@ -25,7 +25,8 @@ Setting the first name and last name for all users
 
 
 
-![Screenshot 2023-10-25 125031](https://github.com/suchitranath/ODD2023-WT-Ex-02-Admin/assets/145742631/3cd43929-3111-4acc-b442-1fadf7d06e85)
+
+![Screenshot 2023-10-25 125031](https://github.com/suchitranath/ODD2023-WT-Ex-02-Admin/assets/145742631/aa4c5247-38e7-4c63-bf75-dba932d6f325)
 
 
 
