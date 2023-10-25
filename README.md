@@ -21,7 +21,12 @@ Setting e-mail for all users
 Setting the first name and last name for all users
 
 # OUTPUT:
-![](images/output.png)
+
+
+
+
+![Screenshot 2023-10-25 101258](https://github.com/suchitranath/ODD2023-WT-Ex-02-Admin/assets/145742631/ad2dd10b-7e75-45ce-a879-5c7364ea3f24)
+
 # RESULT:
 
 The program is executed succesfully
